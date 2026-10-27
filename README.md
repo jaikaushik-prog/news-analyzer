@@ -137,12 +137,6 @@ This layer captures structural regime shifts — a single bad earnings headline 
 
 ---
 
-## PART 2: ANTIGRAVITY BUILD PROMPT
-
----
-
-> **Copy everything below this line verbatim into Antigravity.**
-
 ---
 
 # BUILD PROMPT: News Alpha — Wall Street Club Analyst Workbench
