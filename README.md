@@ -1,4 +1,4 @@
-# News Alpha — Full System Writeup & Antigravity Build Prompt
+# News Alpha — Full System Writeup 
 
 ---
 
